@@ -1,0 +1,26 @@
+C:\Users\Rolando\Desktop\Marcos\U\3er Semestre\Programacion Orientada\EdwinRivadeneria3C\EdwinRivadeneria3C\bin\Debug\netcoreapp3.1\EdwinRivadeneria3C.exe
+C:\Users\Rolando\Desktop\Marcos\U\3er Semestre\Programacion Orientada\EdwinRivadeneria3C\EdwinRivadeneria3C\bin\Debug\netcoreapp3.1\EdwinRivadeneria3C.deps.json
+C:\Users\Rolando\Desktop\Marcos\U\3er Semestre\Programacion Orientada\EdwinRivadeneria3C\EdwinRivadeneria3C\bin\Debug\netcoreapp3.1\EdwinRivadeneria3C.runtimeconfig.json
+C:\Users\Rolando\Desktop\Marcos\U\3er Semestre\Programacion Orientada\EdwinRivadeneria3C\EdwinRivadeneria3C\bin\Debug\netcoreapp3.1\EdwinRivadeneria3C.runtimeconfig.dev.json
+C:\Users\Rolando\Desktop\Marcos\U\3er Semestre\Programacion Orientada\EdwinRivadeneria3C\EdwinRivadeneria3C\bin\Debug\netcoreapp3.1\EdwinRivadeneria3C.dll
+C:\Users\Rolando\Desktop\Marcos\U\3er Semestre\Programacion Orientada\EdwinRivadeneria3C\EdwinRivadeneria3C\bin\Debug\netcoreapp3.1\EdwinRivadeneria3C.pdb
+C:\Users\Rolando\Desktop\Marcos\U\3er Semestre\Programacion Orientada\EdwinRivadeneria3C\EdwinRivadeneria3C\obj\Debug\netcoreapp3.1\EdwinRivadeneria3C.csproj.AssemblyReference.cache
+C:\Users\Rolando\Desktop\Marcos\U\3er Semestre\Programacion Orientada\EdwinRivadeneria3C\EdwinRivadeneria3C\obj\Debug\netcoreapp3.1\EdwinRivadeneria3C.AssemblyInfoInputs.cache
+C:\Users\Rolando\Desktop\Marcos\U\3er Semestre\Programacion Orientada\EdwinRivadeneria3C\EdwinRivadeneria3C\obj\Debug\netcoreapp3.1\EdwinRivadeneria3C.AssemblyInfo.cs
+C:\Users\Rolando\Desktop\Marcos\U\3er Semestre\Programacion Orientada\EdwinRivadeneria3C\EdwinRivadeneria3C\obj\Debug\netcoreapp3.1\EdwinRivadeneria3C.csproj.CoreCompileInputs.cache
+C:\Users\Rolando\Desktop\Marcos\U\3er Semestre\Programacion Orientada\EdwinRivadeneria3C\EdwinRivadeneria3C\obj\Debug\netcoreapp3.1\EdwinRivadeneria3C.dll
+C:\Users\Rolando\Desktop\Marcos\U\3er Semestre\Programacion Orientada\EdwinRivadeneria3C\EdwinRivadeneria3C\obj\Debug\netcoreapp3.1\EdwinRivadeneria3C.pdb
+C:\Users\Rolando\Desktop\Marcos\U\3er Semestre\Programacion Orientada\EdwinRivadeneria3C\EdwinRivadeneria3C\obj\Debug\netcoreapp3.1\EdwinRivadeneria3C.genruntimeconfig.cache
+C:\Users\esalv\Downloads\EdwinRivadeneria3C\EdwinRivadeneria3C\bin\Debug\netcoreapp3.1\EdwinRivadeneria3C.exe
+C:\Users\esalv\Downloads\EdwinRivadeneria3C\EdwinRivadeneria3C\bin\Debug\netcoreapp3.1\EdwinRivadeneria3C.deps.json
+C:\Users\esalv\Downloads\EdwinRivadeneria3C\EdwinRivadeneria3C\bin\Debug\netcoreapp3.1\EdwinRivadeneria3C.runtimeconfig.json
+C:\Users\esalv\Downloads\EdwinRivadeneria3C\EdwinRivadeneria3C\bin\Debug\netcoreapp3.1\EdwinRivadeneria3C.runtimeconfig.dev.json
+C:\Users\esalv\Downloads\EdwinRivadeneria3C\EdwinRivadeneria3C\bin\Debug\netcoreapp3.1\EdwinRivadeneria3C.dll
+C:\Users\esalv\Downloads\EdwinRivadeneria3C\EdwinRivadeneria3C\bin\Debug\netcoreapp3.1\EdwinRivadeneria3C.pdb
+C:\Users\esalv\Downloads\EdwinRivadeneria3C\EdwinRivadeneria3C\obj\Debug\netcoreapp3.1\EdwinRivadeneria3C.csproj.AssemblyReference.cache
+C:\Users\esalv\Downloads\EdwinRivadeneria3C\EdwinRivadeneria3C\obj\Debug\netcoreapp3.1\EdwinRivadeneria3C.AssemblyInfoInputs.cache
+C:\Users\esalv\Downloads\EdwinRivadeneria3C\EdwinRivadeneria3C\obj\Debug\netcoreapp3.1\EdwinRivadeneria3C.AssemblyInfo.cs
+C:\Users\esalv\Downloads\EdwinRivadeneria3C\EdwinRivadeneria3C\obj\Debug\netcoreapp3.1\EdwinRivadeneria3C.csproj.CoreCompileInputs.cache
+C:\Users\esalv\Downloads\EdwinRivadeneria3C\EdwinRivadeneria3C\obj\Debug\netcoreapp3.1\EdwinRivadeneria3C.dll
+C:\Users\esalv\Downloads\EdwinRivadeneria3C\EdwinRivadeneria3C\obj\Debug\netcoreapp3.1\EdwinRivadeneria3C.pdb
+C:\Users\esalv\Downloads\EdwinRivadeneria3C\EdwinRivadeneria3C\obj\Debug\netcoreapp3.1\EdwinRivadeneria3C.genruntimeconfig.cache
